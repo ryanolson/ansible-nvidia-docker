@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Ryan Olson
+  license: MIT
+  min_ansible_version: 1.4
+  platforms:
+    - name: Ubuntu
+      versions:
+       - trusty
+       - xenial
+  galaxy_tags:
+    - nvidia-docker
+    - docker
+    - ubuntu
+dependencies: []
