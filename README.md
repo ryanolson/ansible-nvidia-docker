@@ -30,6 +30,13 @@ Use it in a playbook as follows:
       sudo: true
 ```
 
+Ubuntu 14.04
+------------
+
+[Doug Holt](https://github.com/dholt) put together a nice bootstrap script for 14.04 instances.
+
+https://gist.github.com/dholt/7e93369f6bfa449eebae17ebd43fec38
+
 Ubuntu 16.04
 ------------
 
