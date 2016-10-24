@@ -8,7 +8,7 @@ galaxy_info:
        - trusty
        - xenial
   galaxy_tags:
-    - nvidia-docker
     - docker
     - ubuntu
-dependencies: []
+dependencies:
+  - ryanolson.docker
